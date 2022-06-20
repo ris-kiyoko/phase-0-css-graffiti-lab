@@ -1,1 +1,25 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+.none {
+    background-color: rgb(9, 9, 109);
+    text-align: center;
+    background-position: 6fr;
+}
+.parent {
+    image-orientation: flip;
+}
+.slick-wicked {
+    font-weight: 500;
+}
+#tag-6 {
+    display: tag-1;
+}
+#tag-1 {
+    font-size: x-large;
+    background-position: 40cm;
+    background-color: aqua;
+    text-shadow: 8ex;
+
+}
